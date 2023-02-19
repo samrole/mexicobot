@@ -1,4 +1,4 @@
-# ŞUANLIK İNGİLİZCE YAKINDA TÜRKÇE SÜRÜMÜ YAYINLANACAK!
+
 
 ## Kurulum
 
